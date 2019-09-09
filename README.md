@@ -1,1 +1,1 @@
-# modern-react-redux-streamer
+# modern-react-redux-streamy
