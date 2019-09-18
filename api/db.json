@@ -4,6 +4,17 @@
       "title": "My Stream",
       "description": "This is a stream description",
       "id": 1
+    },
+    {
+      "title": "Stardew Valley",
+      "description": "This is a stream for Stardew Valley",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "Vindhya created this stream",
+      "userId": "104823116500399215490",
+      "id": 3
     }
   ]
 }
